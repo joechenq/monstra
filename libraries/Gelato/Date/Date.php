@@ -381,7 +381,7 @@ class Date
                     'Asia/Rangoon'=>'(GMT+06:30) Yangon (Rangoon)',
                     'Asia/Novosibirsk'=>'(GMT+07:00) Almaty, Novosibirsk',
                     'Asia/Bangkok'=>'(GMT+07:00) Bangkok, Hanoi, Jakarta',
-                    'Asia/Beijing'=>'(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi',
+                    'Asia/Shanghai'=>'(GMT+08:00) Beijing,Chongqing,Hong Kong',
                     'Asia/Ulaanbaatar'=>'(GMT+08:00) Irkutsk, Ulaan Bataar',
                     'Asia/Krasnoyarsk'=>'(GMT+08:00) Krasnoyarsk',
                     'Asia/Kuala_Lumpur'=>'(GMT+08:00) Kuala Lumpur, Singapore',
